@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :space_invader: I’m author of ...
-  * :lock: [Trading Platform Starter](www.google.com)
+  * :lock: [Trading Platform Starter](www.google.com) :dollar: 1999 :heavy_dollar_sign: source code
 
 - :computer: I’m currently working on ...
   * :closed_lock_with_key: [HFTbridge](https://github.com/MikePapinski/HFTbridge)
@@ -14,9 +14,9 @@
   * :earth_americas: [HFT.Research](https://github.com/MikePapinski/HFT.Research)
 
 - :muscle: I’m expierienced in : 
-  * HFT, FIX protocol, Matching Engines, SBE, MQL4/5, 
-  * C#, Python, ML, 
-  * Forex, Crypto, Stocks, Options, Binary Options
+  * :pill: HFT, FIX protocol, Matching Engines, SBE 
+  * :punch: C#, Python, MQL4, MQL5, Pine script
+  * :chart_with_upwards_trend: Forex, Crypto, Stocks, Options, Binary Options
 - 💬 You can find me on [youtube], [instagram], [discord], [mikepapinski.com]
 - 📫 How to reach me: :email: papinski.mike.contact@gmail.com
 
