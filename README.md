@@ -17,7 +17,7 @@
   * :pill: HFT, FIX protocol, Matching Engines, SBE 
   * :punch: C#, Python, MQL4, MQL5, Pine script
   * :chart_with_upwards_trend: Forex, Crypto, Stocks, Options, Binary Options
-- 💬 You can find me on  <img src="youtube.png" height="30" width="30" > [Youtube](https://github.com/MikePapinski/HFTbridge), <img src="instagram.png" height="30" width="30" > [Instagram](https://github.com/MikePapinski/HFTbridge), <img src="discord.png" height="30" width="30" > [Discord](https://github.com/MikePapinski/HFTbridge)
+- 💬 You can find me on  <img src="youtube.png" height="20" width="20" > [Youtube](https://github.com/MikePapinski/HFTbridge), <img src="instagram.png" height="20" width="20" > [Instagram](https://github.com/MikePapinski/HFTbridge), <img src="discord.png" height="20" width="20" > [Discord](https://github.com/MikePapinski/HFTbridge)
   * [mikepapinski.com](https://mikepapinski.com)
 - 📫 How to reach me: :email: mikepapinski.contact@gmail.com
 
