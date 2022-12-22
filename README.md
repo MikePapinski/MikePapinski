@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 - :space_invader: I’m author of ...
-  * :lock: [Trading Platform Starter](www.google.com) :dollar: 1999 :heavy_dollar_sign: source code
+  * <img src="TRADE STARTER LOGOTYP.png" height="40">  [Trade Starter](www.google.com) 
 
 - :computer: I’m currently working on ...
   * :closed_lock_with_key: [HFTbridge](https://github.com/MikePapinski/HFTbridge)
-  * :closed_lock_with_key: [HFTfeeder](https://github.com/MikePapinski/HFTbridge.Feeder)
-  * :closed_lock_with_key: [Trade Middleman](https://github.com/MikePapinski/HFTbridge)
+  * <img src="FEEDER LOGOTYP.png" height="40"> [HFTfeeder](https://github.com/MikePapinski/HFTbridge.Feeder)
+  * <img src="MIDDLE MAN LOGOTYP.png" height="40"> [Trade Middleman](https://github.com/MikePapinski/HFTbridge)
 
 - 🌱 I’m currently raising funds for ...
-  * :earth_americas: [FIXtrader](https://github.com/MikePapinski/FIXtrader)
+  * <img src="FIX TRADER LOGOTYP.png" height="40"> [FIXtrader](https://github.com/MikePapinski/FIXtrader)
   * :earth_americas: [MTgRPC](https://github.com/MikePapinski/mtgrpc)
   * :earth_americas: [HFT.Research](https://github.com/MikePapinski/HFT.Research)
 
